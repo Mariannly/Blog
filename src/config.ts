@@ -61,7 +61,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "CV",
 			icon: "fa6-solid:user",
-			url: "assets/ResearchCV_ENG.pdf",
+			url: "https://drive.google.com/file/d/1m08gfiJOA2SE0y_zDYNjXRBIA9Yrs7p5/view?usp=sharing",
 		},
 		{
 			name: "LinkedIn",
